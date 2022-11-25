@@ -1,3 +1,11 @@
+---
+date created: 
+date modified: 
+tags : []
+language: 
+author : []
+---
+
 # Web Development
 
 Website Development ที่เป็นมิตรสำหรับทุกคน
@@ -127,14 +135,3 @@ Tutorial นี้จะเริ่มสอน HTML, CSS, JS ก่อนแ�
 
 ## Intermediate
 
-### Roles of Web Development
-
-- Front-End
-- Back-End
-- Full-Stack
-
-
-
-## Expert
-
-### DevOps
